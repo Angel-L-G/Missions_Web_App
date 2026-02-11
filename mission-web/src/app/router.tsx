@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
-import MedievalMissionsDashboard from "./routes/Login.tsx";
+import MedievalMissionsDashboard from './routes/Login.tsx';
 
 function AppRouter() {
     return (
